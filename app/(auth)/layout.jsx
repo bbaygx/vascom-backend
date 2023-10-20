@@ -68,7 +68,7 @@ function Navbar() {
         <div className="profile text-right flex space-x-6 items-center">
           <div className="">
             <span className="text-sm text-blue-500">Hallo Admin</span>
-            <h1 className="text-base">Bayu Putra .E</h1>
+            <h1 className="text-base">Lucky Indra .E</h1>
           </div>
           <DropdownMenu>
             <DropdownMenuTrigger>
